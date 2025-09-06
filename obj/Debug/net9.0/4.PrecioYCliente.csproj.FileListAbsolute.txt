@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\obj\Debug\net9.0\4.PrecioYCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\obj\Debug\net9.0\4.PrecioYCliente.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\obj\Debug\net9.0\4.PrecioYCliente.AssemblyInfo.cs
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\obj\Debug\net9.0\4.PrecioYCliente.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\bin\Debug\net9.0\4.PrecioYCliente.exe
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\bin\Debug\net9.0\4.PrecioYCliente.deps.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\bin\Debug\net9.0\4.PrecioYCliente.runtimeconfig.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\bin\Debug\net9.0\4.PrecioYCliente.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\bin\Debug\net9.0\4.PrecioYCliente.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\obj\Debug\net9.0\4.PrecioYCliente.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\obj\Debug\net9.0\refint\4.PrecioYCliente.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\obj\Debug\net9.0\4.PrecioYCliente.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\obj\Debug\net9.0\4.PrecioYCliente.genruntimeconfig.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\4.PrecioYCliente\obj\Debug\net9.0\ref\4.PrecioYCliente.dll
